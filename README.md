@@ -1,5 +1,6 @@
 # DollarEuroRouble_swap_telegram_bot
 Telegram Bot -конвертер валют (currency convertet telegram bot)
+
   Telegam bot DollarEuroRoble_swap_Bot конвертирует доллары <-> евро <-> рубли в запрошенных количествах.
   Создан с использованием модулей PyTelegramBotAPI, requests, json.
   =======================================================================================================
